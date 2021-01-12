@@ -5,4 +5,8 @@ RENCANA KONTEN
   *Selada
 -lulus
   *Cumlaude
-  -dapat wanita yang baik
+-dapat wanita yang baik
+  *cantik
+-Python
+-Java
+  
